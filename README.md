@@ -193,10 +193,10 @@ The threshold should be chosen from a baseline run: measure normal traffic first
 
 ## Team
 
-- Person 1: topology, traffic generation, experiment runner and graphs: [name]
-- Person 2: Mininet integration, learning switch and flow statistics: [name]
-- Person 3: detection, blocking, logging, architecture and report: [name]
+- Person 1: topology, traffic generation, experiment runner and graphs: [Mohammad Haaris Shaikh]
+- Person 2: Mininet integration, learning switch and flow statistics: [Samskruthi M]
+- Person 3: detection, blocking, logging, architecture and report: [Thousif]
 
 ## License
 
-[Add a license, for example MIT, or state that this is a coursework project.]
+[This project was created as coursework for a Computer Networks course and is shared for educational purposes.]
