@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment (rebuild with the steps in README.md)
+ryu-env/
+.venv/
+
+# Runtime logs
+logs/*.log
+logs/*.txt
+
+# Large capture files from experiment runs (keep summary.md, graphs and flows.log)
+results/*/syn_h*.txt
+results/*/ports.csv
+
+# Backups and editor files
+*.tar.gz
+.vscode/
+.idea/
