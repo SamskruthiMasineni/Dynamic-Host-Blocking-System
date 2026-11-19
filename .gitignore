@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+ryu-env/
+.venv/
+logs/*.log
+*.tar.gz
+results/*/syn_h*.txt
+results/*/ports.csv
